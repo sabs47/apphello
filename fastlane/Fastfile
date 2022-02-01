@@ -22,8 +22,8 @@ platform :ios do
       scheme: "hellowolrd",
       clean: true,
       #export_method: 'development',
-      output_directory: "~/Desktop", # Destination directory. Defaults to current directory.
-      output_name: "fastlane_jenkinss.ipa",
+      #output_directory: "~/Desktop", # Destination directory. Defaults to current directory.
+      #output_name: "fastlane_jenkinss.ipa",
     )
   end
 end
